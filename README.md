@@ -1,5 +1,5 @@
-- 👋 Hi, I’m GUNJAN KUMAR @G-JK
-- 👀 I’m interested in Data Analytics & Data Science
+- 👋 Hi, I’m GUNJAN KUMAR @G-JK, I am B-tech in EE, with 8 yrs of exp in different project related to Installation & Troubleshooting 
+- - 👀 I’m interested in Data Analytics & Data Science
 - 🌱 I’m currently learning Data Analytics/SQL/PYTHON
 - 💞️ I’m looking to collaborate on learning new concepts.
 - 📫 How to reach me, here is my linkedin profile link
