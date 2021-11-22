@@ -17,7 +17,7 @@ Experienced with over 8 years in Installation and Service field. Excellent reput
 - For me Data Analytics is like a Detective(Sherlock) in work, where Data is your subject and insights you retrive for Bussiness Goods is your job. Its Fun & Challenging, well works pretty well for me, as I love challenges in my day to day job. It keeps me on the edge. More the challenge, more the learnings.
 
 - 💞️ I’m looking to collaborate on learning new concepts.
-- 📫 How to reach me, here is my linkedin profile link
+- 📫 How to reach me, here is my linkedin profile
 https://www.linkedin.com/in/gunjan-kumar-708ab5214/
 
 <!---
