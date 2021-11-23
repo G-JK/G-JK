@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/statistics-%23013243.svg?style=for-the-badge&logo=statistics&logoColor=white">
     <img src="https://img.shields.io/badge/PowerBI-%23013243.svg?style=for-the-badge&logo=PowerBI&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-%23013243.svg?style=for-the-badge&logo=Tableau&logoColor=white">
 
