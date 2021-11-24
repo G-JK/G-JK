@@ -6,18 +6,18 @@
 
 <h3 align="center"><em>Wake up the Sherlock in you.💯</em></h3>
 
-<p>This is what I have learned over the past months. Give me the Data, and I'll give you the hidden treasure.  </p>
+<p>This is what I have learned over the past months. Give me the Data, and I'll take out the information.  </p>
 
 <h3 align="center"><em>It is not The Strongest of the Species that Survives, Nor The Most Intelligent that Survives. It is the ONE that is the Most Adaptable to Change - Charles Darwin.💯</em></h3>
 
 <p>This is what I have learned  and follwed over the year. I am Re-learning Data Science. I use Python for Data Science & Analysis. I love Analysis part the most. Its Fun & Challenging, well works pretty good for me, as I love challenges in my day to day job. It keeps me on the edge. More the challenge, more the learnings.  </p>
 
 <hr>
-<h3>🚀 Some things you should know 👇</h3>
+<h3>🚀 Know Me 👇</h3>
 <ul>
-<li>👨‍💻 I'm currently an <em>Active Learner</em> of <strong>Data Science</strong>.</li>
+<li>👨‍💻 I'm a <em> Relearning </em> <strong>Data Science</strong>.</li>
 
-<li>👨‍🎓 Life - long learner. Learning is a continuous process, One should never stop them self from Learning. I like to share Knowledge I learnt because I strongly believe Everyone has rights to learn and excel in life. <strong>Knowledge Is Power</strong>.</li>
+<li>👨‍🎓 Life - long learner. Learning is a continuous process. I like to learn and contribute to the community, by sharing my Knowledge. <strong>Knowledge Is Power</strong>.</li>
 </li>
 </ul>
 <hr>
