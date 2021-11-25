@@ -4,11 +4,11 @@
     <img src="https://komarev.com/ghpvc/?username=G-JK" alt="G-JK"> 
 </div>
 
-<h3 align="center"><em>Wake up the Sherlock in you.💯</em></h3>
+<h3 align="center"><em>Wake up the Sherlock in you.</em></h3>
 
 <p>This is what I have learned over the past months. Give me the Data, and I'll take out the information.  </p>
 
-<h3 align="center"><em>It is not The Strongest of the Species that Survives, Nor The Most Intelligent that Survives. It is the ONE that is the Most Adaptable to Change - Charles Darwin.💯</em></h3>
+<h3 align="center"><em>It is not The Strongest of the Species that Survives, Nor The Most Intelligent that Survives. It is the ONE that is the Most Adaptable to Change - Charles Darwin.</em></h3>
 
 <p>This is what I have learned  and follwed over the year. I am Re-learning Data Science. I use Python for Data Science & Analysis. I love Analysis part the most. Its Fun & Challenging, well works pretty good for me, as I love challenges in my day to day job. It keeps me on the edge. More the challenge, more the learnings.  </p>
 
