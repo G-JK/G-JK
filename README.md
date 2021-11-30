@@ -6,7 +6,7 @@
 
 <h3 align="center"><em>Wake up the Sherlock in you.</em></h3>
 
-<p>This is what I have learned over the past months. Give me the Data, and I'll take out the information.  </p>
+<p>This is what I have learned over the past months. Give me the Data, and I'll bring out the information.  </p>
 
 <h3 align="center"><em>It is not The Strongest of the Species that Survives, Nor The Most Intelligent that Survives. It is the ONE that is the Most Adaptable to Change - Charles Darwin.</em></h3>
 
