@@ -15,7 +15,7 @@
 <hr>
 <h3>🚀 Know Me 👇</h3>
 <ul>
-<li>👨‍💻 I'm working as a <strong> Data Analyst</strong> in <em> HSCODES LLC </em>.</li>
+<li>👨‍💻 I'm working as a <strong> Data Analyst</strong> in <em> Kisah Appareals Pvt Ltd </em>.</li>
 
 <li>👨‍🎓 Life - long learner. Learning is a continuous process. I like to learn and contribute to the community, by sharing my Knowledge. <strong>Knowledge Is Power</strong>.</li>
 </li>
